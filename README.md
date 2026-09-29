@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Plataforma-Android%207.0%2B%20(API%2024%20--%2036)-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Arquitectura-Capacitor%208%20%2B%20Java%2021-007ACC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Registro-INDAUTOR%20M%C3%A9xico-red?style=for-the-badge&logo=shield" alt="INDAUTOR">
-  <img src="https://img.shields.io/badge/Funcionalidad-App%20Widgets%20%26%20Edge--to--Edge-orange?style=for-the-badge" alt="Widgets">
+  <a href="https://github.com/Richpol99/ubicatec-admin-showcase"><img src="https://img.shields.io/badge/Consola%20Admin-UbiDash%20(Compose)-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="UbiDash Admin"></a>
   <img src="https://img.shields.io/badge/Push-OneSignal%20SDK%205.1-E0007A?style=for-the-badge&logo=onesignal&logoColor=white" alt="OneSignal">
 </p>
 
@@ -197,3 +197,4 @@ ubicatec-android/
 - **Institución:** Instituto Tecnológico de Puebla (ITP)
 - **Registro de Obra:** Instituto Nacional del Derecho de Autor (**INDAUTOR**, México)
 - **Repositorio de la Solución Web:** [ubicatec-showcase](https://github.com/Richpol99/ubicatec-showcase)
+- **Repositorio de la Consola Administrativa:** [ubicatec-admin-showcase](https://github.com/Richpol99/ubicatec-admin-showcase)
